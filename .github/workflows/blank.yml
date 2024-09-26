@@ -33,11 +33,11 @@ jobs:
        * Author: yuantung
        ************************************************************/"
     # Type of files(extension) for which copyright notice has to be added in the given file path
-    FileType: 
+       FileType: 
     # Path in which copyright notice has to be added to files
-    Path: # optional
+       Path: # optional
     # Path ignored without adding copyright notice
-    IgnorePath: # optional
+       IgnorePath: # optional
 
     
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
