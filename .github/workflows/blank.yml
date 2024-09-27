@@ -35,7 +35,7 @@ jobs:
     # Type of files(extension) for which copyright notice has to be added in the given file path
               FileType: .sh
        # Path in which copyright notice has to be added to files
-              Path: /
+              Path: /testfolder
        # Path ignored without adding copyright notice
               #IgnorePath: # optional
 
